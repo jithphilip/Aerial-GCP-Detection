@@ -38,7 +38,7 @@ Exploratory Data Analysis (EDA) on the provided dataset revealed several real-wo
 
 ## 5. Instructions for Inference
 
-To reproduce the `predictions.json` file on the hidden test set, run the final cell in **"main.ipynb"** jupyter notebook under the **"Inference & Deliverable Generation"** section or use the 'prediction_helper.py' for generation prediction file.
+To reproduce the `predictions.json` file on the hidden test set, run the final cell in **"main.ipynb"** jupyter notebook under the **"Inference & Deliverable Generation"** section or use the 'prediction_helper.py' for generating a prediction file.
 
 **Prerequisites:**
 
